@@ -22,6 +22,9 @@ Welcome to our Doctor Booking Platform designed to connect compassionate doctors
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
   
+
+![Doctor Registration](https://res.cloudinary.com/dl0dmc7zu/image/upload/v1707206629/Screenshot_393_frskxg.png)
+![Doctor Appointment list](https://res.cloudinary.com/dl0dmc7zu/image/upload/v1707206629/Screenshot_391_gph5hu.png)
 ## Setup Instructions
 
 1. Clone the repository: `git clone https://github.com/your_username/doctor-booking-platform.git`
